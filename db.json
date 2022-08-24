@@ -1,0 +1,11 @@
+{
+  "sample_api_response" : [
+    {
+      "id": 1,
+      "og_title": "카드포털 공유 타이틀111",
+      "og_description": "카트포털 공유 디스크립션",
+      "og_image_url": "https://t1.daumcdn.net/kakaopay/plcc-web/v2/og/plcc_talk_share.png"
+    }
+  ]
+
+}
