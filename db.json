@@ -1,9 +1,9 @@
 {
   "sample_api_response": [
     {
-      "html":
-        '<Title>유의사항</Title><Content><ContentTitle>혜택01</ContentTitle><NoticeUl><NoticeLi>계약 체결 전 상품설명서와 약관을 확인하시기 바랍니다.</NoticeLi><NoticeLi>상환능력에 비해 신용카드 사용액이 과도할 경우, 개인신용평점이 하락할 수' +
-        ' 있습니다.</NoticeLi></NoticeUl></Content<Content><ContentTitle>혜택02</ContentTitle><NoticeUl><NoticeLi>계약 체결 전 상품설명서와 약관을 확인하시기 바랍니다.</NoticeLi><NoticeLi>상환능력에 비해 신용카드 사용액이 과도할 경우, 개인신용평점이 하락할 수 있습니다.</NoticeLi></NoticeUl></Content><Divider/><ExtraContent>여신금융협회 심의필 제2022-C1h-00953호<br/>(2022.02.28~2023.02.27)</ExtraContent><Content><ContentTitle>꼭 알아두세요</ContentTitle><NoticeUl><NoticeLi>카카오페이는 농협은행(주)의 신용카드를 모집하고 있으며, 다수의 신용카드를 대리하거나 중개합니다.</NoticeLi>농협은행(주)카드로부터 금융상품 계약체결권을 부여받지 아니한 금융상품 판매 대리·중개업자의 경우 금융상품 계약을 체결할 수 없습니다.<NoticeLi>카카오페이는 금융관계법률에 따라 농협은행(주)와 위탁·계약을 체결한 금융상품판매대리·중개업자 입니다.</NoticeLi></NoticeUl></Content>',
-    },
+      "og_title": "카드중개플랫폼 공유하기",
+      "og_description": "카드중개플랫폼 공유하기 설명입니다.",
+      "og_image_url": "https://t1.daumcdn.net/kakaopay/plcc-web/v2/og/plcc_talk_share.png"
+    }
   ],
 }
